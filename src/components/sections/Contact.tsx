@@ -10,10 +10,10 @@ const Contact = () => {
         </h2>
            {/* DIVIDER */}
           <div className="mx-auto mb-6 h-[2px] w-16 rounded-full bg-[#c4a18e]/70" />
-        <p className="text-gray-400 mb-8 leading-relaxed">
+        {/* <p className="text-gray-400 mb-8 leading-relaxed">
           I’m open to internships, collaborations, and frontend opportunities.
           Feel free to reach out.I’d love to talk. Let's connect!
-        </p>
+        </p> */}
 
         {/* CONTACT DETAILS */}
         <div className="space-y-4 mb-8 text-gray-300">
@@ -22,7 +22,7 @@ const Contact = () => {
           <div className="flex items-center justify-center gap-3">
             <FaEnvelope className="text-[#c4a18e]" />
             <a
-              href="mailto:rasoolmaryeem@gmail.com"
+              href="fr.fatima.rasool@gmail.com"
               className="hover:text-[#c4a18e] transition"
             >
 fr.fatima.rasool@gmail.com
@@ -46,7 +46,7 @@ fr.fatima.rasool@gmail.com
         {/* SOCIALS */}
         <div className="flex justify-center gap-6">
           <a
-            href="https://github.com/maryeem9"
+            href="https://github.com/Fatima-Rasool"
             target="_blank"
             className="text-gray-400 hover:text-[#c4a18e] transition text-xl"
           >
@@ -54,7 +54,7 @@ fr.fatima.rasool@gmail.com
           </a>
 
           <a
-            href="https://www.linkedin.com/in/maryeem-rasool-23a880372/"
+            href="https://www.linkedin.com/in/fatima-rasool-934267220/  "
             target="_blank"
             className="text-gray-400 hover:text-[#c4a18e] transition text-xl"
           >
